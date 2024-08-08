@@ -2,4 +2,4 @@ Explore the Dictionary with AI Suggestions and features like 'Word of the Day', 
 
 Figma Prototype:- https://www.figma.com/proto/A2lhhOPguZYOB4U2EbXB2X/WordWise?node-id=74-101&t=BBbMy74uuqQSfoGs-1
 
-Website Link:- http://13.202.147.186
+Website Link:- https://viv6271.pythonanywhere.com
